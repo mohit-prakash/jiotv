@@ -15,16 +15,16 @@ https://jiotvweb.vercel.app/api/zioxtv.php?id=472&ch=And_TV_HD.png&q=1200&wmsAut
 https://jiotvweb.vercel.app/api/zioxtv.php?id=167&ch=Zee_TV_HD.png&q=1200&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDIzIDEyOjEzOjA3IFBNJmhhc2hfdmFsdWU9eC9HQmF3QnNmOU51U3RqQzEzcys3dz09JnZhbGlkbWludXRlcz0zNjA=
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD 
 https://jiotvweb.vercel.app/api/zioxtv.php?id=144&ch=Colors_HD.png&q=1200&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDIzIDEyOjE0OjM4IFBNJmhhc2hfdmFsdWU9NVJiclM3emlBN25hV3RwRHU5ZUhjZz09JnZhbGlkbWludXRlcz0zNjA=
-#EXTINF:1 tvg-logo="http://localhost:3500/channelLogo/Zee_Anmol.png" group-title="Entertainment",Zee Anmol 
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="Entertainment",Zee Anmol 
 http://localhost:3500/getm3u8/473/Zee_Anmol/no
-#EXTINF:1 tvg-logo="http://localhost:3500/channelLogo/Rishtey.png" group-title="Entertainment",Rishtey 
-http://localhost:3500/getm3u8/279/Rishtey/no
-#EXTINF:1 tvg-logo="http://localhost:3500/channelLogo/Sony_Pal.png" group-title="Entertainment",Sony Pal 
-http://localhost:3500/getm3u8/474/Sony_Pal/no
-#EXTINF:1 tvg-logo="http://localhost:3500/channelLogo/Dangal.png" group-title="Entertainment",Dangal 
-http://localhost:3500/getm3u8/701/Dangal/no
-#EXTINF:1 tvg-logo="http://localhost:3500/channelLogo/Colors_Infinity_HD.png" group-title="Entertainment",Colors Infinity HD 
-http://localhost:3500/getm3u8/1158/Colors_Infinity_HD/yes
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="Entertainment",Rishtey 
+https://jiotvweb.vercel.app/api/zioxtv.php?id=279&ch=Rishtey.png&q=1200&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDIzIDEyOjU4OjI3IFBNJmhhc2hfdmFsdWU9M3ZOMkw0SXBrMmwxUG9aakk2WXNLdz09JnZhbGlkbWludXRlcz0zNjA=
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment",Sony Pal 
+https://jiotvweb.vercel.app/api/zioxtv.php?id=474&ch=Sony_Pal.png&q=1200&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDIzIDE6MDg6NTYgUE0maGFzaF92YWx1ZT11SEcrS2sxV3BySVduSExyUjNWdS9RPT0mdmFsaWRtaW51dGVzPTM2MA==
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png" group-title="Entertainment",Dangal 
+https://jiotvweb.vercel.app/api/zioxtv.php?id=701&ch=Dangal.png&q=1200&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDIzIDE6MTM6MjQgUE0maGFzaF92YWx1ZT0reFFvQlhxUzlKVHdlRVYrM3g3d2Z3PT0mdmFsaWRtaW51dGVzPTM2MA==
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="Entertainment",Colors Infinity HD 
+https://jiotvweb.vercel.app/api/zioxtv.php?id=1158&ch=Colors_Infinity_HD.png&q=1200&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDIzIDE6MTQ6MjYgUE0maGFzaF92YWx1ZT1IQ1lLZ2pKRnBBYVpDRG1MTnNJZ05BPT0mdmFsaWRtaW51dGVzPTM2MA==
 #EXTINF:1 tvg-logo="http://localhost:3500/channelLogo/Comedy_Central_HD.png" group-title="Entertainment",Comedy Central HD 
 http://localhost:3500/getm3u8/1157/Comedy_Central_HD/yes
 #EXTINF:1 tvg-logo="http://localhost:3500/channelLogo/Jio_Sports.png" group-title="Sports",Jio Sports HD 
